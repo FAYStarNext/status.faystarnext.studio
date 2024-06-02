@@ -16,7 +16,7 @@ settings:
 
 monitors:
   - id: faystarnext.studio # unique identifier
-    name: workers.cloudflare.com
+    name: faystarnext.studio
     description: 'You write code. They handle the rest.' # default=empty
     url: 'https://faystarnext.studio/' # URL to fetch
     method: GET # default=GET
